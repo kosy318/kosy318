@@ -65,9 +65,10 @@ Usually with C++ or Java
 
 
 <div align="center">
- 토이 프로젝트 공유 사이트 정보
+ 토이 프로젝트 공유 사이트 정보<br>
+ https://rough-code.com <br>
   
-![개발새발](http://k8a306.p.ssafy.io:8080/api/v1/mypage?userName=kosy318)
+<img src="http://k8a306.p.ssafy.io:8080/api/v1/mypage?userName=kosy318" width="700px"/>
 
 </div>
 
